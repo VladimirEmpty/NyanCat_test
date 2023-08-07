@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: f26f7201f6c52654183c0ec52cb3e5bc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Nyan Cat Lost In Space - Nyan Cat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 363
+        width: 150
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a28e6490999714ea22900a01f5a0a0
+      internalID: 542929563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nyan Cat Lost In Space - Nyan Cat_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 363
+        width: 150
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3629081fb58fd284a8bea7654150f4ad
+      internalID: 1348268410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nyan Cat Lost In Space - Nyan Cat_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 363
+        width: 150
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae1ff6240c97fe4da22a71b39b94121
+      internalID: -902166621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nyan Cat Lost In Space - Nyan Cat_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 363
+        width: 150
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3a23331f1b921438b30b9e739253ad
+      internalID: -827278094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nyan Cat Lost In Space - Nyan Cat_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 363
+        width: 150
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ef24e0ce65c0d4a94c796e0a402a8e
+      internalID: 390368754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Nyan Cat Lost In Space - Nyan Cat_5
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 363
+        width: 150
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c664dbfba2d22d4fbc97d7c246fc555
+      internalID: -636285145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_3: -827278094
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_11: 844928861
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_1: 1348268410
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_25: -1033827288
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_20: -54857840
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_17: -1575562662
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_2: -902166621
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_23: -166335725
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_0: 542929563
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_9: 1330475213
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_19: 102868572
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_4: 390368754
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_6: -39979225
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_21: 1494835907
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_18: -449501254
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_14: 561287169
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_22: -1219742720
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_10: 1695722852
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_24: 651720347
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_13: 408185480
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_8: -1845729200
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_16: 204777355
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_7: -17414864
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_5: -636285145
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_12: 949765920
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_26: 1212226056
+      PC Computer - Nyan Cat Lost In Space - Nyan Cat_15: -93772861
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
